@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenti Antezana</h1>
-<h3 align="center">A passionate Software Engenineering Student and Spring Developer from Argentina </h3>
+<h3 align="center">A passionate Software Engineering Student and Spring Developer from Argentina </h3>
 
 - 🔭 I’m currently working on a collaborative FullStack project -> [The Walking Dogs App](https://github.com/23737k/the-walking-dogs-app)
 - 🌱 I’m currently learning Microservices 
